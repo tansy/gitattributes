@@ -1,0 +1,6 @@
+Some text with LF line endings
+
+askldjfkld
+sadf
+asdf
+sdf
