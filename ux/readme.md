@@ -1,0 +1,1 @@
+Unix (LF) line endings.
