@@ -1,0 +1,7 @@
+Some text with CRLF line endings
+
+askldjfkld
+sadf
+sdf
+sdf
+sfd
