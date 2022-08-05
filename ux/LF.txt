@@ -1,5 +1,0 @@
-It's jus some random random random text.
-With LF line endings.
-LF-+
-   |
-   \/
