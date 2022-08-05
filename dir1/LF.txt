@@ -1,6 +1,6 @@
-Some text with CRLF line endings
+Some text with LF line endings
 
 askldjfkld
 sadf
-sdf
+asdf
 sdf
