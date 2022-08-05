@@ -4,6 +4,8 @@
 *.txt eol crlf
 *.dos eol crlf
 *.ux  eol lf
+*.md  eol lf
+.* eol lf
 
 # Explicitly declare source files
 *.c text eol=lf
@@ -14,12 +16,12 @@
 *.png binary
 
 # Visual Studio
+*.dsp text eol=crlf
+*.dsw text eol=crlf
 *.sln text eol=lf
 *.vcxproj* text eol=lf
 *.vcproj* text eol=lf
 *.suo binary
-*.dsp text eol=crlf
-*.dsw text eol=crlf
 *.rc text eol=lf
 
 # Windows
