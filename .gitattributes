@@ -1,6 +1,10 @@
 # Set the default behavior
 * text eol=lf
 
+*.txt eol lf
+*.dos eol crlf
+*.ux  eol lf
+
 # Explicitly declare source files
 *.c text eol=lf
 *.h text eol=lf
